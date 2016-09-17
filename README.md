@@ -45,7 +45,7 @@ DON'T send any questions, issues or anything related to Flex to my personal emai
 The theme supports responsive adsense banners on the top/bottom of articles and index. And a 250x250 banner in aside.
 To configure it create a responsive banner and a 250x250 banner on your adsense account and set this on your pelicanconf.
 
-'''json
+'''javascript
 ADSENSE = {
   'adClientId' : '<< YOUR AD CLIENT>>',
   'adSlot' : {
